@@ -29,7 +29,7 @@ model = "models/embedding-001"
 
 # Create the embeddings object with the model argument
 embeddings = GoogleGenerativeAIEmbeddings(
-    google_api_key="AIzaSyAwPgTexfe28DmlR4lhgPAiu8YC8LW8soc",
+    google_api_key="google_api_key",
     model=model
 )
 
