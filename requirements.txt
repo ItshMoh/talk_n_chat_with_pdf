@@ -1,0 +1,4 @@
+pypdf2
+langchain
+langchain-google-genai
+chromadb
